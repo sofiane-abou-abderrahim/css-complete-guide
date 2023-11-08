@@ -36,6 +36,7 @@ body {
 
 .main-header > div {
   display: inline-block;
+  vertical-align: middle;
 }
 
 .main-header__brand {
@@ -49,6 +50,7 @@ body {
   display: inline-block;
   text-align: right;
   width: calc(100% - 74px);
+  vertical-align: middle;
 }
 
 .main-nav__items {
