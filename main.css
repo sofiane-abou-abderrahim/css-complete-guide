@@ -33,3 +33,7 @@ body {
   background: #2ddf5c;
   padding: 8px 16px;
 }
+
+.main-nav__item {
+  display: inline-block;
+}
