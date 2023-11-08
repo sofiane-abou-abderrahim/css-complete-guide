@@ -74,10 +74,7 @@ body {
   color: red;
 } */
 
-.main-nav__item a:hover {
-  color: white;
-}
-
+.main-nav__item a:hover,
 .main-nav__item a:active {
   color: white;
 }
