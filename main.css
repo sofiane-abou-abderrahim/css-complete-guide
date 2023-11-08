@@ -71,18 +71,8 @@ body {
   padding: 3px 0;
 }
 
-/* .main-nav__item a::after {
-  content: ' (link)';
-  color: red;
-} */
-
 .main-nav__item a:hover,
 .main-nav__item a:active {
   color: white;
   border-bottom: 5px solid white;
 }
-
-/* p::first-letter {
-  color: red;
-  font-size: 20px;
-} */
