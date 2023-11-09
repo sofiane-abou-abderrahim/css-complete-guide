@@ -55,6 +55,10 @@ body {
   padding: 0;
 }
 
+.plan__feature {
+  margin: 8px 0;
+}
+
 /* h1 {
   font-family: sans-serif;
 } */
