@@ -17,6 +17,7 @@ body {
 .section-title {
   color: #2ddf5c;
   /* font-family: inherit; */
+  text-align: center;
 }
 
 #product-overview h1 {
