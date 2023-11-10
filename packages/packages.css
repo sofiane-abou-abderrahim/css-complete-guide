@@ -34,12 +34,20 @@ main {
   background: white;
 }
 
+.clearfix {
+  clear: both;
+}
+
 #plus {
   background: rgba(213, 255, 220, 0.95);
 }
 
 #free {
   background: rgba(234, 252, 237, 0.95);
+  float: right;
+  border-right: none;
+  border-left: 4px solid #0e4f1f;
+  text-align: right;
 }
 
 #premium {
