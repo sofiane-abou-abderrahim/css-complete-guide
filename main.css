@@ -202,3 +202,9 @@ body {
   background: white;
   border: none;
 }
+
+.main-footer {
+  background: black;
+  padding: 32px;
+  margin-top: 48px;
+}
