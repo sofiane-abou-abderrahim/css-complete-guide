@@ -15,3 +15,14 @@ main {
   display: block;
   padding: 32px;
 }
+
+.package__subtitle {
+  color: #979797;
+}
+
+.package__info {
+  padding: 16px;
+  border: 1px solid #0e4f1f;
+  font-size: 20px;
+  color: #0e4f1f;
+}
