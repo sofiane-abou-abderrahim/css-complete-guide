@@ -96,6 +96,10 @@ body {
   outline: none;
 }
 
+#key-features {
+  background: #ff1b68;
+}
+
 /* h1 {
   font-family: sans-serif;
 } */
